@@ -1,0 +1,13 @@
+1. Similar concepts: Both guidelines value clear and understandable code. Both also appreciate feedback and constructive criticism in code review for better outcomes.
+
+Key Differences: Microsoft prefers automated feedback while Yelp describes using team feedback. Yelp also says to avoid overhead on developer time while Microsoft does not find this as a problem.
+
+2. https://codereview.stackexchange.com/questions/272674/oop-blackjack-in-python-3-9-9 
+
+This code reviews is beneficial for many reasons. It provides valueable feedback, builds upon given information, checks for correctness and architecture, and more.
+
+3. https://codereview.stackexchange.com/questions/29144/simple-task-for-networking-programmers
+
+This code review is jumbled and not very concise. It jumps around and adds some feedback that doesn't regard efficiency or making code understandable.
+
+
